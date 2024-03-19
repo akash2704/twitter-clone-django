@@ -1,4 +1,4 @@
-# NCCBUDDY
+# twitter-clone-django
 Social Media Clone Developed In Django
 This project is basic social media features.
 
