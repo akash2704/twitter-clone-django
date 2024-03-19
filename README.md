@@ -58,9 +58,6 @@ python manage.py runserver
 
 ## Authors
 
-* **Uttam Velani**
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* **Akash Ajay Kallai**
 
 ### REDUCE PLASTIC USE AND SAVE ENVIRONMENT
